@@ -1,6 +1,6 @@
 # Migros
 
-# Dataset Description
+**Dataset Description**
 1) Dosya
 ● train.csv - Training veri seti
 ● test.csv - Test veri seti
@@ -11,7 +11,7 @@
 ● customer.csv – Müşterilerin demografik bilgileri
 ● genel_kategoriler.csv – Genel kategori isimleri.
 
-# Açıklamalar
+**Açıklamalar**
 
 2) Promotion Train/Test
 ● individualnumber: Müşterinin kişi numarası
@@ -26,7 +26,7 @@
 ● cardnumber: Alışverişte kullanılan kart numarası (customeraccount tablosundaki cardnumber ile eşleşmektedir)
 ● is_sanal: Fişin karşılık geldiği alışverişin sanal olma durumu (1: Sanal Alışveriş, 0: Mağaza Alışverişi)
 
-Transaction Sale
+**Transaction Sale**
 ● basketid: Ürünün içerisinde geçtiği fişin numarası
 ● category_level_1: 1. Seviye Kategori (Kategori hiyerarşisinin en üst seviyesi)
 ● category_level_2: 2. Seviye Kategori
